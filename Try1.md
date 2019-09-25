@@ -1,1 +1,1 @@
-[Link] (https://github.com/sn639/Try)
+(Link) [https://github.com/sn639/Try]

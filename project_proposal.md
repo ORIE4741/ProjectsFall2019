@@ -12,3 +12,5 @@
 ### Why it is important:
 1. To plan ahead of time for fires and be prepared, this would help save wildlife.
 2. Predict fire internsities in different areas and understand how the weather affects them. Incase of high intensity fires, it might be required to evacuate the nearby areas.
+
+Members: Murali, Harsh, Yi Yao

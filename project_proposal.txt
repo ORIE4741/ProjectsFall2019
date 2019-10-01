@@ -1,0 +1,11 @@
+
+
+Youtube has become a main source of income for more and more people as the platform continues to rapidly grow. There has been a huge increase in the number of businesses that grew from youtube channels. Ad revenue and product sponsorships are only some examples of the kinds of monetization Youtubers generate their main income from. Their livelihoods depend on them staying popular on this platform and generating more views or reaching a broader audience. For them, predicting what makes a video start trending on Youtube would be vital to their continued success and growth.
+
+The first data set we will be looking at is from Kaggle and consists of a list of trending Youtube videos in various countries for roughly 8 months. It consists of information like the titles of trending videos, how many likes or dislikes the videos have, or what channel the video is on.
+
+By
+Brandon Wang
+Kyle Wadell
+
+Data set - Kaggle Youtube Dataset

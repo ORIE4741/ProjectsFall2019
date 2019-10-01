@@ -1,23 +1,10 @@
-# ProjectsFall2019
-This is a repository that contains the list of links of the repositories of the projects.
+# [Identifying High-Risk Regions for Shootings](https://github.com/tanmaybansal01/orie4741-f19)
+#### Tanmay Bansal (tb444), Saksham Mohan (sm985)
 
-To add the link of your repository, you need to fork this repository, create a file containing the link to your repository, and create a pull request (PR) from this fork. Here are the detailed steps:
-
-1. Creating a fork: 
-Click Fork on the top right, and choose your account.
-2. Add the link to your fork repository:
-- In the repository you just forked, click Create new file.
-- Name it as (The name of your project).md.
-- Type the link of the repository of your project in the following format:
-[The name of your project](The url of the repository) by your names. See ExampleProject.md as an example by editing it (by clicking the pen icon).
-- Commit new file.
-- Check if it has the same format as our example.
-3. Create a pull request from a fork: 
-- Navigate back to the original repository (This one).
-- To the right of the Branch menu, click New pull request.
-- On the Compare page, click compare across forks.
-- Confirm that the base fork is the original repository.
-- Use the head fork drop-down menu to select your fork.
-- Type the title and description for your pull request.
-- Click Create pull request.
-Then you should be able to see your pull request in the Pull requests tab. We will accept your pull request once we see it.
+We aim to analyze the locations, times, and public discourse around gun shootings in America to
+achieve the following main objectives:
+1. Identify trends in terms of geography, demographic, general public sentiment, economy, etc.
+for shootings.
+2. Devise a predictive model that leverages social media responses, public discourse through
+news articles, etc. surrounding the shooting date, and other geographical and economic
+characteristics to identify high risk regions for shootings.

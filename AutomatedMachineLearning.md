@@ -1,1 +1,1 @@
-[AutomatedMachineLearning](https://github.com/TheoRepo/4741project) by Chengnan Xu, Tian Yu
+[AutomatedMachineLearning](https://github.com/TheoRepo/AutoMLproject.git) by Chengnan Xu, Tian Yu
